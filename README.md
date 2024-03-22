@@ -2,7 +2,6 @@
 
 Simplified ERP (Enterprise Resource Planning) system interface using React. The system provides essential features for managing business operations efficiently, including product management, order management, and a dashboard for overview metrics.
 
-The project Template can be used to build bigger projects
 
 ## Live Application URL
 
