@@ -13,11 +13,6 @@ This URL has the application deployed. Click on the link to see the application
 ### Install Node JS
 Refer to https://nodejs.org/en/ to install nodejs
 
-### Install Neccessacy Module
-
-```bash
-npm install
-```
 ### npm package globally. This will help to easily run the project and also build the source files easily. Use the following command to install create-react-app
 
 ```bash
