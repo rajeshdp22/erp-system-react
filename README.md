@@ -39,7 +39,7 @@ npm run dev
 The Application Runs on **localhost:3000**
 
 ## Folder Structure
-
+```bash
 ├── public/           # Public assets and index.html
 ├── src/              # Source code
 │   ├── components/   # Reusable React components
@@ -49,6 +49,7 @@ The Application Runs on **localhost:3000**
 ├── .gitignore        # Git ignore file
 ├── package.json      # npm package configuration
 └── README.md         # Project README file
+```
 
 ## Features and Screenshots
 
